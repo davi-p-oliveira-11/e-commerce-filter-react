@@ -1,3 +1,4 @@
+import "./colors.css";
 
 const Colors = () => {
   return (

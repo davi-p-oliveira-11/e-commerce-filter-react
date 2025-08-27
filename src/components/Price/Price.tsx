@@ -1,3 +1,4 @@
+import "./price.css"
 
 const Price = () => {
   return (
